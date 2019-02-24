@@ -30,4 +30,13 @@ Quick and simple tutorial to create your Kubernetes-cluster out of Raspberry Pis
 
 - Configure Windows Subsystem for Linux (WSL)
 
+Install first Ubuntu from the Microsoft App Store (only on Windows 10):
+
+![](https://github.com/JordiCorbilla/Kubernetes-Cluster/raw/master/ubuntu.png)
+
+once installed, you will have to enable this feature through "Turn On/Off Windows Features":
+
+![](https://github.com/JordiCorbilla/Kubernetes-Cluster/raw/master/WSL.png)
+
+
 
