@@ -19,7 +19,7 @@ Quick and simple tutorial to create your Kubernetes-cluster out of Raspberry Pis
 
 ### Nodes 1 to 4
 
-- Install 
+- Burn [Raspbian Jesse Lite](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-11-15/) to each Raspberry Pi SD card. By the time of this tutorial, I used raspbian_lite-2018-11-15 which was the latest available. 
 
 
 
