@@ -21,6 +21,8 @@ Quick and simple tutorial to create your Kubernetes-cluster out of Raspberry Pis
 
 - Burn [Raspbian Jesse Lite](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-11-15/) to each Raspberry Pi SD card. By the time of this tutorial, I used raspbian_lite-2018-11-15 which was the latest available. 
 
+- To burn the images you can use [Win32 disk imager](https://sourceforge.net/projects/win32diskimager/) or [BalenaEtcher](https://www.balena.io/etcher/).
 
+- Put the SD cards back in to eac
 
 
