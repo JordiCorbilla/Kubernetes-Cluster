@@ -23,6 +23,9 @@ Quick and simple tutorial to create your Kubernetes-cluster out of Raspberry Pis
 
 - To burn the images you can use [Win32 disk imager](https://sourceforge.net/projects/win32diskimager/) or [BalenaEtcher](https://www.balena.io/etcher/).
 
-- Put the SD cards back in to eac
+- I used my cool [SDXC/MicroSDXC USB adapter](https://www.modmypi.com/raspberry-pi/sd-cards-and-adaptors-232/sd-card-readers/kawau-c296-usb-sd-and-micro-sd-card-reader-512gb) to copy the images:
+![](https://github.com/JordiCorbilla/Kubernetes-Cluster/raw/master/usbsdxc.jpg)
+
+- Put the SD cards back into each pie and we'll start remoting onto them one by one to configure them.
 
 
