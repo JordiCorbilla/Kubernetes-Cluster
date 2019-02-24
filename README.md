@@ -28,4 +28,6 @@ Quick and simple tutorial to create your Kubernetes-cluster out of Raspberry Pis
 
 - Put the SD cards back into each pie and we'll start remoting onto them one by one to configure them.
 
+- Configure Windows Subsystem for Linux (WSL)
+
 
